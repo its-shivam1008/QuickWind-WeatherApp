@@ -35,7 +35,7 @@ function App() {
         height={3}
       />
       <Routes>
-        <Route exact={true} path='/Home' element={<Main setProgress={setProgress}/>}/>
+        <Route exact={true} path='/' element={<Main setProgress={setProgress}/>}/>
         <Route path='/contact' element={<Contact setProgress={setProgress}/>}/>
         <Route path='/about' element={<About setProgress={setProgress}/>}/>
         {/* <Route path='*' element={<Nopage setProgress={setProgress}/>}/> */}
