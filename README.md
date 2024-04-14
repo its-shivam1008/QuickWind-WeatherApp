@@ -1,3 +1,7 @@
+### This is a weather app used to tell the weather conditions of different places also tell about the forecast  and give the historic weather data on a particular date. This project is made using React, TailWindcss and Weatherapi
+
+## This website is live here => https://quickwind.rf.gd
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
