@@ -1,0 +1,21 @@
+@tailwind base;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+*{
+    font-family: Montserrat;
+}
+::selection{
+    background:#ffca28;
+    color:#ffffff;
+}
+::-webkit-scrollbar{
+    width:8px;
+}
+::-webkit-scrollbar-track{
+    background-color: #f4bf71;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #00d1a9;
+    border-radius: 100px;
+}
+@tailwind components;
+@tailwind utilities;
